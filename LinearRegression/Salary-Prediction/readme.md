@@ -4,7 +4,7 @@ Dataset
 The dataset used in this project is a CSV file named 'Salary_Data.csv', which contains two columns:
 YearsExperience: The number of years of experience an employee has.
 Salary: The salary of the employee.
-The dataset can be found at: [Salary Data CSV](https://example.com/Salary_Data.csv)
+The dataset can be found at: [Salary Data CSV](Salary_Data.csv)
 Requirements
 Python 3.x
 pandas
