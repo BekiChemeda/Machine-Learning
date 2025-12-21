@@ -1,0 +1,7 @@
+This topic is all about Linear Regression, a fundamental algorithm in machine learning used for predicting a continuous target variable based on one or more input features. Linear Regression assumes a linear relationship between the input variables (features) and the output variable (target).
+
+In this topic, I have implemented a simple Linear Regression model from scratch using Python and currently, I am working on Multiple Linear Regression, which involves multiple input features.
+
+The difference between Simple Linear Regression and Multiple Linear Regression is that Simple Linear Regression uses one independent variable to predict the dependent variable. You can take [Salary Prediction](/SalaryPrediction) as an example of Simple Linear Regression which predicts the salary based on years of experience only. which means it has only one feature.
+
+On the other hand, Multiple Linear Regression uses two or more independent variables to predict the dependent variable. For example, predicting house prices based on features like size, number of bedrooms, location, etc. In this case, there are multiple features involved in making the prediction.
